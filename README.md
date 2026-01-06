@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Chega+Mais!+Seja+Bem-vindo.:%29;+Sou+Bruna+Lima!+Tenho+22+anos.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Chega+Mais!+Seja+Bem-vindo.:%29;+Sou+Bruna+Lima!+Tenho+25+anos.)](https://git.io/typing-svg)
 
 <div dsplay="inline-block" align="center">
  <h4>Minhas redes sociais:</h4>
