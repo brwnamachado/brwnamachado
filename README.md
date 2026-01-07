@@ -30,7 +30,6 @@ Confira meus projetos no GitHub:
 
 <div style="display: flex" align="center" >
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brwnamachado&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=brwnamachado&theme=chartreuse-dark"/> 
 </div>
 
 ---
